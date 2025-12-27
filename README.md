@@ -20,7 +20,7 @@ A fast-paced, 2D endless runner built with **Python** using **Object-Oriented Pr
 
 * **OOP Architecture:** Clean code structure using dedicated classes for the Kangaroo, Obstacles, Power-ups, and Environment.
 * **Double Jump Mechanic:** Precise movement control with gravity-based physics and velocity management.
-* **Dynamic Difficulty:** Game speed increases over time using a speed increment system ($SPEED\_INCREMENT = 0.005$).
+* **Dynamic Difficulty:** Game speed increases over time using a speed increment system (SPEED\_INCREMENT = 0.005).
 * **Power-Up System:**
     * 🟡 **Invincibility:** Allows the kangaroo to pass through obstacles safely for a limited duration.
     * 🟢 **Double Points:** Multiplier that doubles the score for every obstacle cleared.

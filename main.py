@@ -523,7 +523,6 @@ def game_over_screen(final_score):
     root = tk.Tk()
     root.title("FIN DE PARTIE")
     
-    # J'ai légèrement élargi cette fenêtre aussi (450) pour que les boutons larges rentrent bien
     window_width = 450
     window_height = 350
     

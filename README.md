@@ -1,6 +1,6 @@
 # 🦘 Kangaroo Jumper
 
-A fast-paced, 2D endless runner built with **Python** using **Object-Oriented Programming (OOP)** principles and the **Pygame** library. This project was developed as part of our Python OOP module.
+A fast-paced, 2D endless runner built with **Python** using **Object-Oriented Programming (OOP)** principles and the **Pygame** in conjunction with **Tkinter** libraries. This project was developed as part of our Python OOP module.
 
 ---
 

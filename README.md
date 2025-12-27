@@ -32,5 +32,5 @@ A fast-paced, 2D endless runner built with **Python** using **Object-Oriented Pr
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Cd8Zfq/OOP-Basic-Kangaroo-Game-Project.git](https://github.com/Cd8Zfq/OOP-Basic-Kangaroo-Game-Project.git)
+   git clone [https://github.com/Cd8Zfq/OOP-Basic-Kangaroo-Game-Project.git]
    cd "OOP-Basic-Kangaroo-Game-Project"

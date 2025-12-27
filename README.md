@@ -10,7 +10,7 @@ A fast-paced, 2D endless runner built with **Python** using **Object-Oriented Pr
 | :--- | :--- | :--- |
 | **Ait ouflih** | Anouar | GCDSTE1 |
 | **Arafat** | Mohamed Garad | GCDSTE1 |
-| **Ajmani** | Mohammed | GCDSTE1 |
+| **Ajmani** | Mohamed | GCDSTE1 |
 | **Ammi** | Yassine | GCDSTE1 |
 | **Adloun** | Abdelhay | GCDSTE1 |
 
